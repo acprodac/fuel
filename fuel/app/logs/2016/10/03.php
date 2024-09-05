@@ -1,0 +1,36 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2016-10-03 08:36:45 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 08:36:52 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 08:38:38 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 08:39:36 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 08:51:00 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 08:58:27 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:06:18 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:06:38 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:08:14 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:14:55 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:14:58 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:18:31 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:18:38 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:29:23 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:38:19 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:40:28 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:50:02 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:52:51 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 09:56:33 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 10:00:38 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 10:02:55 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 10:04:41 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 10:04:59 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 10:13:47 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 10:23:07 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:24:52 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:28:23 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:35:53 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:36:25 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:44:03 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:44:13 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:46:13 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:46:54 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2016-10-03 11:56:46 --> 2003 - SQLSTATE[HY000] [2003] Can't connect to MySQL server on 'mysql.prodac.com.br' (113) in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100

@@ -1,0 +1,25 @@
+/*
+*	@author Alan David
+*/
+
+.content { width: 95%; }
+
+.menu h1 { float: none; }
+	.menu h1 a img { width: 9em; margin-top: 7px; }
+	.menu p br { display: none; }
+.menu p { float: none; padding-top: 5px; width: 200px   }
+
+	.menu #btnMenu { position: absolute; right: 0; top: 0; }
+	#nav a { margin-left: 20%; }
+
+#contHead img { display: none; }
+
+/* DETALHES Galeria */
+#legenda_galeria  { position: relative; text-indent: 0; }
+
+/* parceiros */
+.parceiros .content ul li { width: 50%; }
+
+/* BUSCA */
+.resbusca li h3 { width: 100%; margin-right: 0; float: none; }
+	.resbusca li .btnCinza { width: 50%; margin: 10px 0 0 25%;  }

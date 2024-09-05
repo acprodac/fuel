@@ -1,0 +1,29 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2018-05-25 18:32:50 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 18:32:51 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 18:39:53 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:24:54 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:24:54 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:24:56 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:22 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:23 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:24 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:24 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:25 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:25 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:26 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:26 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:28 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:28 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:28 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:31 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:34 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:35 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:34:36 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 20:55:22 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 22:07:25 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 22:40:09 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 22:45:54 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 23:12:01 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100
+ERROR - 2018-05-25 23:12:02 --> 2002 - SQLSTATE[HY000] [2002] A rede está fora de alcance in /home/prodac/www/fuel/core/classes/database/pdo/connection.php on line 100

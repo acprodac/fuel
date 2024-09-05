@@ -1,0 +1,24 @@
+Searching 18 files for "emandamento" (case sensitive)
+
+/Applications/MAMP/htdocs/prodac/www/fuel/app/views/site/_include/footer.php:
+   10  					<a href="<?php echo Uri::create('premios'); ?>" title="Prêmios">• Prêmios</a>
+   11  					<a href="parceiros.html" title="Parceiros">• Parceiros</a>
+   12: 					<a href="emandamento.html" title="Obras em Andamento">• Em Andamento</a>
+   13  					<a href="contato.html" title="Contato">• Contato</a>
+   14  				</div>
+
+/Applications/MAMP/htdocs/prodac/www/fuel/app/views/site/_include/header.php:
+   13  				<a class="<?php echo Arr::get($m, 'premios', ''); ?>" href="<?php echo Uri::create('premios'); ?>" title="Prêmios"><img src="<?php echo $baseUrl; ?>assets/img/navArrow3.png" alt="" />Prêmios</a>
+   14  				<a class="<?php echo Arr::get($m, 'parceiros', ''); ?>" href="<?php echo Uri::create('clientes'); ?>" title="Parceiros"><img src="<?php echo $baseUrl; ?>assets/img/navArrow3.png" alt="" />Clientes</a>
+   15: 				<a class="<?php echo Arr::get($m, 'emandamento', ''); ?>" href="<?php echo Uri::create('emandamento'); ?>" title="Obras em Andamento"><img src="<?php echo $baseUrl; ?>assets/img/navArrow3.png" alt="" />Em Andamento</a>
+   16  				<a class="<?php echo Arr::get($m, 'contato', ''); ?>" href="<?php echo Uri::create('contato'); ?>" href="#" title="Contato"><img src="<?php echo $baseUrl; ?>assets/img/navArrow3.png" alt="" />Contato</a>
+   17  				
+
+/Applications/MAMP/htdocs/prodac/www/fuel/app/views/site/home/index.php:
+   55  				<?php endforeach; ?>
+   56  
+   57: 				<a href="<?php echo Uri::create('emandamento'); ?>" class="btnCinza" title="Ver todas as obras em andamento"><strong>Ver todas</strong> as obras em andamento</a>
+   58  				</ul>
+   59  			</div>
+
+4 matches across 3 files

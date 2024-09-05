@@ -1,0 +1,1 @@
+(function(a){a.generateRandomPassword=function(c){c=c||8;var e="";var g="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!%&?#_-@ç";var h=g.split("");var b=h.length,f=0;do{f++;var d=Math.floor(Math.random()*b);e+=h[d]}while(f<c);return e}})(jQuery);

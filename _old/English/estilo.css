@@ -1,0 +1,32 @@
+.normal {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #2C736D; 
+.normal5 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9pt; color: #2C736D; 
+.titulo {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt;font-weight: bold ;   color: #2C736D;
+.formulario { BACKGROUND: #ffffff; BORDER-BOTTOM: #A4421E 1px solid; BORDER-LEFT: #A4421E 1px solid; BORDER-RIGHT: #A4421E 1px solid; BORDER-TOP: #A4421E 1px solid; COLOR: #666666; FONT-FAMILY: arial; FONT-SIZE: 10pt}
+-->
+.forms { BACKGROUND: #ffffff; BORDER-BOTTOM: #A4421E 1px solid; BORDER-LEFT: #A4421E 1px solid; BORDER-RIGHT: #A4421E 1px solid; BORDER-TOP: #A4421E 1px solid; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; line-height: normal; height: 15px; width: 170px}
+.forms8 { BACKGROUND: #ffffff; BORDER-BOTTOM: #A4421E 1px solid; BORDER-LEFT: #A4421E 1px solid; BORDER-RIGHT: #A4421E 1px solid; BORDER-TOP: #A4421E 1px solid; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; line-height: normal; height: 60px; width: 240px}
+.forms2 { BACKGROUND: #ffffff; BORDER-BOTTOM: #A4421E 1px solid; BORDER-LEFT: #A4421E 1px solid; BORDER-RIGHT: #A4421E 1px solid; BORDER-TOP: #A4421E 1px solid; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; line-height: normal; height: 15px; width: 40px}
+A:link {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline ; color: #2C736D
+}
+A:visited {
+	TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline ; color: #2C736D
+}
+
+BODY 
+{ 
+scrollbar-3d-light-color: #79A9A9;
+scrollbar-arrow-color: #79A9A9;
+scrollbar-base-color: #F2F8F8;
+scrollbar-dark-shadow-color: #F3F9F9;
+scrollbar-face-color: #F3F9F9;
+scrollbar-highlight-color: #FFFFFF;
+scrollbar-shadow-color: #C3DDDA;
+
+}

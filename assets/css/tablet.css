@@ -1,0 +1,52 @@
+/*
+*	@author Alan David
+*/
+
+.menu { width: 98% }
+	.menu h1 a img { width: 10em; }
+	.menu p { font-size: 0.6em; }
+
+	.content h2 { font-size: 1.4em; }
+
+#footer_in { width: 95%; }
+
+.next { background-position: 100% 50%; } 
+.prev { background-position: 0 50%; } 
+
+/* Home */
+.home .content, .content { width: 90%; }
+	.home .content h2 { background-position: 0.7em 50% !important; }
+	.content #contHead h2 { background-position: 0 50% !important; }
+	#contHead img { margin: 0px 30px 30px 10px }
+	.contCol { width: 46%; margin: auto 2% !important; }
+		.contCol img { width: 100%; height: auto; }
+		.contCol h2 { font-size: 1.2em; padding: 1em 0 1em 4em !important; }
+    
+    #destaque_in p { padding: 100px 0 0 5%; }
+
+
+/* Segmentos */
+.segmentos .content ul li { width: 47%; margin: 0 3% 15px 0; height: auto;}
+.hover { opacity: 0 !important }
+
+/* servicos */
+.servicos .content { width: 96%; }
+	.servicos ul li { width: 46%; margin: 0 2% 20px; }
+		.servicos ul li img { width: 100%; }
+		.servicos ul li h3 { font-size: 1.1em; line-height: 1.6em; padding: 0 1em 1em 5em }
+.servicos .btnCinza { margin-right: 0; }
+
+/* premios */
+.premios .content ul li img { width: 48%; margin-right: 2%; }
+.premios .content ul li p { width: 50%; font-size: 1em; line-height: 1.3em; }
+
+/* Contato */
+.contato .content { width: 90%; }
+	.contato #contCol1, .contato #contCol2 { width: 48%; margin: 0; }
+	.contato #contCol1 { margin: 0 4% 0 0; }
+
+
+.galeria .jcarousel { width: 100%; margin: 0; }
+#legenda_galeria { width: 96%; margin: 0; }
+	.galeria .prev { left: 0 }
+	.galeria .next { right: 0 }
